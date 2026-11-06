@@ -1,0 +1,22 @@
+{
+  "wheel_id": 780,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-108",
+  "project": "earthmoving-adelaide-beginner-guide-1cc5405a00c50d98d46b072418c",
+  "parent_t1_ref": "simplyearthworks-153",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide beginner guide",
+  "intended_url": "http://earthmoving-adelaide-beginner-guide-1cc5405a00c50d98d46b072418c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "a8dd456e2d068245",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-adelaide-pros-and-cons-e21631a18c26fbadb522eeecba6f/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
